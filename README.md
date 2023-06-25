@@ -1,21 +1,21 @@
-<h1 align="center">Welcome to mike-portfolio 👋</h1>
-<a href="https://github.com/mjtechworks/mike-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/mjtechworks/mike-portfolio"></a><a href="https://github.com/mjtechworks/mike-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/mjtechworks/mike-portfolio"></a><a href="https://github.com/mjtechworks/mike-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/mjtechworks/mike-portfolio"></a> <a href="https://github.com/mjtechworks/mike-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/mjtechworks/mike-portfolio"></a>
+<h1 align="center">Welcome to gregory-portfolio 👋</h1>
+<a href="https://github.com/gregoryjohnsonjg6/gregory-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/gregoryjohnsonjg6/gregory-portfolio"></a><a href="https://github.com/gregoryjohnsonjg6/gregory-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/gregoryjohnsonjg6/gregory-portfolio"></a><a href="https://github.com/gregoryjohnsonjg6/gregory-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/gregoryjohnsonjg6/gregory-portfolio"></a> <a href="https://github.com/gregoryjohnsonjg6/gregory-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/gregoryjohnsonjg6/gregory-portfolio"></a>
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/mjtechworks/mike-portfolio/blob/master/preview.png"></img>
+    <img src="https://github.com/gregoryjohnsonjg6/gregory-portfolio/blob/master/preview.png"></img>
   </kbd>
 </p>
 
-## To view a live example, **[click here](https://ef5cda4a.mike-portfolio.pages.dev/)**.
+## To view a live example, **[click here](https://ef5cda4a.gregory-portfolio.pages.dev/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/mjtechworks/mike-portfolio/issues).
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/gregoryjohnsonjg6/gregory-portfolio/issues).
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/mjtechworks/mike-portfolio/pulls).
+If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/gregoryjohnsonjg6/gregory-portfolio/pulls).
 
 ## Sections
 
@@ -46,13 +46,13 @@ git@2.17.1 or higher
 1. Fork this repoistory and clone it to your local machine.
 
 ```bash
-$ git clone https://github.com/<your-username>/mike-portfolio.git
+$ git clone https://github.com/<your-username>/gregory-portfolio.git
 ```
 
 2. Go into the repository
 
 ```bash
-$ cd mike-portfolio
+$ cd gregory-portfolio
 ```
 
 3. Install dependencies
@@ -101,7 +101,7 @@ Iconify Icons are used in skill section. You can find all the icons here: [Iconi
 
 ## For the Future
 
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/mjtechworks/mike-portfolio/pulls).
+If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/gregoryjohnsonjg6/gregory-portfolio/pulls).
 
 -   Enable Dark Mode
 
@@ -111,8 +111,8 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 👤 **Michael Ryan**
 
--   Website: https://mike-portfolio.pages.dev
--   Github: [@mjtechworks](https://github.com/mjtechworks)
+-   Website: https://gregory-portfolio.pages.dev
+-   Github: [@gregoryjohnsonjg6](https://github.com/gregoryjohnsonjg6)
 
 ## Show your support
 

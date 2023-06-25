@@ -11,15 +11,15 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-    name: 'Michael Ryan',
-    title: "Hi 🖐all, I'm Mike",
+    name: 'Gregory Johnson',
+    title: "Hi 🖐all, I'm Gregory",
     description:
-        "I'm highly skilled and motivated Full Stack React Developer with 7 years of experience in software and web development, seeking a challenging position in a dynamic organization to contribute my expertise and grow professionally.",
-    resumeLink: '/mike cv.pdf',
+        "I'm highly skilled and motivated Full Stack React Developer with 8 years of experience in software and web development, seeking a challenging position in a dynamic organization to contribute my expertise and grow professionally.",
+    resumeLink: '/gregory cv.pdf',
 };
 
 export const openSource = {
-    githubUserName: 'devmrwor',
+    githubUserName: 'gregoryjohnsonjg6',
 };
 
 export const contact = {};
@@ -27,7 +27,7 @@ export const contact = {};
 export const socialLinks: SocialLinksType = {
     // url: 'https://mjtechworks.github.io/',
     // linkedin: 'https://www.linkedin.com/in/mjtechworks/',
-    github: 'https://github.com/devmrwor',
+    github: 'https://github.com/gregoryjohnsonjg6',
     // instagram: 'https://www.instagram.com/__hanzla100',
     // facebook: 'https://www.facebook.com/mjtechworks',
     // twitter: 'https://twitter.com/mjtechworks',
@@ -217,9 +217,9 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
     {
-        schoolName: 'University College Dublin',
+        schoolName: 'University of Alberta',
         subHeader: 'Bachelor of Science in Computer Science',
-        duration: 'September 2011 - November 2015',
+        duration: 'September 2010 - November 2014',
         desc: '',
         grade: 'Grade A',
         descBullets: [
@@ -230,43 +230,45 @@ export const educationInfo: EducationType[] = [
 
 export const experience: ExperienceType[] = [
     {
-        role: 'Full-Stack React Developer',
-        company: 'Corvil',
-        companyLogo: '/img/icons/common/Corvil.png',
-        date: 'November 2021 - Current',
+        role: 'Full-Stack Developer',
+        company: 'Aware',
+        companyLogo: '/img/icons/common/Aware.jpg',
+        date: 'November 2021 - May 2023',
         desc: '',
         descBullets: [
-            `Developed and maintained web applications using React, Redux, and TypeScript, resulting in a 30% increase in user engagement.`,
-            `Collaborated with cross-functional teams to design and implement RESTful APIs using Node.js and Express.`,
-            `Implemented responsive designs using HTML5, CSS3, and Bootstrap, ensuring optimal user experience across various devices.`,
-            `Utilized Agile methodologies, including Scrum and Kanban, to deliver high-quality software in a timely manner.`,
-            `Conducted code reviews and provided mentorship to junior developers, improving overall team performance.`,
+            `Led the development and maintenance of 20 front-ends, resulting in a 25% increase in user engagement.`,
+            `Wrote front-end and back-end code, integrated with frameworks and APIs, and utilized multiple CLI tools and configuration GUI's.`,
+            `Successfully developed and updated 4 websites, resulting in a 30% increase in website traffic and 20% increase in user satisfaction.`,
+            `Successfully deployed 7 attractive, responsive, and mobilefriendly website contexts and elements.`,
+            `Created informative and effective documentation, reports, and inline comments on 100 % of code/work accomplished.`,
         ],
     },
     {
-        role: 'Web Developer',
-        company: 'Capgemini',
-        companyLogo: '/img/icons/common/Capgemini.png',
+        role: 'Web Applications Developer',
+        company: 'Vizworx',
+        companyLogo: '/img/icons/common/Vizworx.jpg',
         date: 'April 2019 – November 2021',
         desc: '',
         descBullets: [
-            `Developed and maintained websites using HTML, CSS, and JavaScript, resulting in a 25% increase in web traffic.`,
-            `Assisted in the development of web applications using PHP and MySQL, improving overall functionality and user experience.`,
-            `Collaborated with the design team to create visually appealing and user-friendly interfaces.`,
-            `Conducted user testing and gathered feedback to inform future development efforts.`,
+            `Optimization web services and APIs that enabled seamless communication between front-end and back-end components, enhancing performance by 20%.`,
+            `Set up a relational database manager for storage, retrieval, and manipulation of data, leading to improved data accessibility by 30%.`,
+            `Utilized source control, automation tools, and CI/CD processes to improve product life cycles and optimize production releases speed by 25%.`,
+            `Designed and implemented databases and data storage solutions, improving data retrieval times by 40% and reducing data loss by 50%.`,
         ],
     },
     {
-        role: 'Full-Stack Developer',
-        company: 'IBM',
-        companyLogo: '/img/icons/common/IBM.png',
-        date: 'February 2016 – April 2019',
+        role: 'Junior Full-Stack Developer',
+        company: 'Jobber',
+        companyLogo: '/img/icons/common/Jobber.jpg',
+        date: 'Octorber 2016 – April 2019',
         desc: '',
         descBullets: [
-            `Developed web applications using Angular, JavaScript, and jQuery, leading to a 20% increase in client satisfaction.`,
-            `Designed and implemented database schemas using MySQL and MongoDB, optimizing data storage and retrieval.`,
-            `Collaborated with the QA team to identify and resolve software defects, resulting in a 15% reduction in reported issues.`,
-            'Utilized Git for version control and JIRA for project management, ensuring efficient collaboration and timely delivery of projects.'
+            `Expertly created 30 new features utilizing HTML/JS/CSS to implement rich and engaging user experiences.`,
+            `Successfully developed and maintained 30 REST APIs writing documentation using OpenAPI specifications.`,
+            `Collaborated with 2 engineering teams on domain, design, and code testing for 12 projects.`,
+            'Participated in weekly code reviews with 4 senior developers.',
+            'Wrote 47 automated tests to raise code quality as part of the development process',
+            'Followed industry best practices, company best practices, and learned 3 new technologies.'
         ],
     },
 ];
@@ -294,18 +296,18 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-    title: 'Michael Ryan',
+    title: 'Gregory Johnson',
     description: 'A passionate Full Stack React Developer.',
-    author: 'Michael Ryan',
+    author: 'Gregory Johnson',
     image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-    url: 'https://mike-portfolio-devmrwor.vercel.app',
+    url: 'https://gregory-portfolio-gregoryjohnsonjg6.vercel.app',
     keywords: [
-        'Mike',
-        'Michael Ryan',
-        '@devmrwor',
-        'devmrwor',
+        'Gregroy',
+        'Gregory Johnson',
+        '@gregoryjohnsonjg6',
+        'gregoryjohnsonjg6',
         'Portfolio',
-        'Mike Portfolio ',
-        'Michael Ryan Portfolio',
+        'Gregory Portfolio ',
+        'Gregory Johnson Portfolio',
     ],
 };
