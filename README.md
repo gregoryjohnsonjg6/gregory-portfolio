@@ -109,7 +109,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Author
 
-👤 **Michael Ryan**
+👤 **Gregory Johnson**
 
 -   Website: https://gregory-portfolio.pages.dev
 -   Github: [@gregoryjohnsonjg6](https://github.com/gregoryjohnsonjg6)
